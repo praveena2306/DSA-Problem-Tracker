@@ -1,5 +1,8 @@
 # DSA Problem Tracker
 
+A Java-based console application to manage and track Data Structures & Algorithms (DSA) problems for consistent practice and progress tracking.
+# DSA Problem Tracker
+
 A Java-based console application to manage and track Data Structures & Algorithms problems.
 
 ## Features
