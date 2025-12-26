@@ -23,3 +23,5 @@ A Java-based console application to manage and track Data Structures & Algorithm
 
 ## Use Case
 Helps students track their DSA practice and monitor progress efficiently.
+Author: Praveena K  
+GitHub: https://github.com/praveena2306
